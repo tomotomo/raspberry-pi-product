@@ -1,1 +1,11 @@
-{"name": "test_app","version": "","description": "","author": "","license": "","language": "","scripts": {"start": "python app.py"}}
+{
+    "name": "test_app",
+    "version": "",
+    "description": "",
+    "author": "",
+    "license": "",
+    "language": "",
+    "scripts": {
+        "start": "node hello_world/hello_world.js"
+    }
+}
